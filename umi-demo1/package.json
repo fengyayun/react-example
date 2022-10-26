@@ -1,6 +1,6 @@
 {
   "private": true,
-  "author":"冯亚运 <fengyayun@100.me>",
+  "author":"冯亚运 <941949529@qq.com>",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
